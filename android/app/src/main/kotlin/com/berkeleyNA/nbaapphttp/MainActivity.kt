@@ -1,0 +1,6 @@
+package com.berkeleyNA.nbaapphttp
+
+import io.flutter.embedding.android.FlutterActivity
+
+class MainActivity: FlutterActivity() {
+}
